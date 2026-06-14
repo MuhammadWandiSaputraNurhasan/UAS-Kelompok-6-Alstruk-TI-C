@@ -2,7 +2,7 @@
 
 ## Sistem Manajemen Event Kampus
 Anggota:
-* Abian Jadwa Q A
+* Abian Jadwa Quesal A
 * Muhamad Atardiyansyahk
 * Muhammad Wandi Saputra N
 * Rafi Fauzan Ramadhan
