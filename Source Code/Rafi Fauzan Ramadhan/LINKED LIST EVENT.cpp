@@ -26,3 +26,19 @@ void tambahEvent(string nama, string tanggal) {
         temp->next = baru;
     }
 }
+
+void tampilEvent() {
+    Event* temp = head;
+
+    if(temp == NULL) {
+        cout << "Belum ada event!\n";
+        return;
+    }
+
+    cout << "\nDaftar Event:\n";
+    while(temp != NULL) {
+        cout << "- " << temp->nama
+             << " | " << temp->tanggal << endl;
+        temp = temp->next;
+    }
+}
