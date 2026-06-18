@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// ================== LINKED LIST EVENT ==================
+// ================= LINKED LIST EVENT =================
 struct Event {
     string nama;
     string tanggal;
